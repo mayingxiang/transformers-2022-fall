@@ -2,7 +2,7 @@
 
 *An effective transfer learning method that can be applied to any task in NLP, and introduce techniques that are key for fine-tuning a language model.*
 
-![1_jawjUxVmzZFZm3i_qgGpXg](/Users/mayingxiang/Desktop/transformers-2022-fall/README.assets/1_jawjUxVmzZFZm3i_qgGpXg.png)
+![1_jawjUxVmzZFZm3i_qgGpXg](README.assets/1_jawjUxVmzZFZm3i_qgGpXg.png)
 
 
 
@@ -21,7 +21,7 @@ In 2018, Howard and Ruder et. al. provided a novel method (ULMFiT) for fine-tuni
 
 ### Method 
 
-![Screenshot 2022-11-02 at 8.48.10 AM](/Users/mayingxiang/Desktop/transformers-2022-fall/README.assets/Screenshot 2022-11-02 at 8.48.10 AM.png)
+![Screenshot 2022-11-02 at 8.48.10 AM](README.assets/Screenshot%202022-11-02%20at%208.48.10%20AM.png)
 
 * **Discriminative fine-tuning** 
 
@@ -48,7 +48,7 @@ In 2018, Howard and Ruder et. al. provided a novel method (ULMFiT) for fine-tuni
 
 ### Results
 
-![Screenshot 2022-11-02 at 8.48.46 AM](/Users/mayingxiang/Desktop/transformers-2022-fall/README.assets/Screenshot 2022-11-02 at 8.48.46 AM.png)
+![Screenshot 2022-11-02 at 8.48.46 AM](README.assets/Screenshot%202022-11-02%20at%208.48.46%20AM.png)
 
 In Table 2, we can see the method outperforms both CoVe, a state-of-the-art transfer learning method based on hyper columns, as well as the state-of-the-art on both datasets.
 
